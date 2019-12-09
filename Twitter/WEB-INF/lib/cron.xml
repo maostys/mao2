@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cronentries>
+	<cron>
+		<url>/cron/senya</url>
+		<description>Love Senya</description>
+		<schedule>every 30 mins</schedule>
+		<timezone>Asia/Tokyo</timezone>
+
+	</cron>
+</cronentries>
