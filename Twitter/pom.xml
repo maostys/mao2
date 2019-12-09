@@ -19,7 +19,7 @@
   <version>1.0</version>
 
   <groupId>com.google.appengine.demos</groupId>
-  <artifactId>appengine-try-java</artifactId>
+  <artifactId>mao2</artifactId>
 
   <!-- Parent POM defines common plugins and properties. -->
   <parent>
@@ -83,10 +83,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-    
+
   <build>
-    <outputDirectory>target/${project.artifactId}/WEB-INF/classes</outputDirectory> 
-                   
+    <outputDirectory>target/${project.artifactId}/WEB-INF/classes</outputDirectory>
+
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
